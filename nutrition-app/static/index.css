@@ -1,0 +1,45 @@
+.desktop-1-child {
+    position: absolute;
+    top: 224px;
+    left: 0px;
+    background-color: #ffd900;
+    width: 1440px;
+    height: 409px;
+}
+.slugfit {
+    position: absolute;
+    top: 60px;
+    left: 235px;
+    display: inline-block;
+    width: 299px;
+    height: 146px;
+}
+.take-control-of {
+    position: absolute;
+    top: 262px;
+    left: 57px;
+    color: #000;
+    display: inline-block;
+    width: 721px;
+    height: 371px;
+}
+.mascotorig-1-icon {
+    position: absolute;
+    top: 25px;
+    left: 22px;
+    width: 213px;
+    height: 181px;
+    object-fit: cover;
+}
+.desktop-1 {
+    width: 100%;
+    position: relative;
+    background-color: rgba(19, 36, 47, 0.94);
+    height: 1024px;
+    overflow: hidden;
+    text-align: left;
+    font-size: 64px;
+    color: #ffd900;
+    font-family: Khmer;
+}
+
